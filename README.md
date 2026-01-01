@@ -59,3 +59,5 @@ Files
 receiver.py - Runs on PC. Handles the socket buffer and mouse movement.
 
 sender.py - Runs on Phone. Reads hardware sensors and blasts UDP packets.
+NOTE : The project is purely coded and handled by Gemini Pro.I am adding this to make sure nobody gets a false expectation or a sudden emergency of being able to do all this on their own (even though its not a very big-of-a-deal).My sole role was to identify factors of error and identifying anomalies.
+
