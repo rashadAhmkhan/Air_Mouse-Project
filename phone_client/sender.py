@@ -3,7 +3,7 @@ import socket
 import json
 import sys
 
-TARGET_IP = "192.168.122.82"
+TARGET_IP = ""
 PORT = 5555
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
